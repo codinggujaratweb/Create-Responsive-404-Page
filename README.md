@@ -1,5 +1,5 @@
 # 👻 Create-Responsive-404-Page
-## [Live Preview](https://amanayak.github.io/Create-Responsive-404-Page/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-404-Page/)
 ### 👻 Responsive 404 Page
 
 - Responsive 404 Page Using HTML CSS & JavaScript
